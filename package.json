@@ -1,0 +1,10 @@
+{
+  "name": "com.custom.planar-reflection",
+  "version": "1.0.0",
+  "displayName": "Planar Reflection Feature",
+  "description": "Planar reflection component, URP planar reflection shader, and sample materials for Unity URP.",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "17.0.0"
+  }
+}
