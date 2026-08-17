@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: FloorReflective
-  m_Shader: {fileID: 4800000, guid: 3d44f54b43d294437b236e60373b7560, type: 3}
+  m_Shader: {fileID: 4800000, guid: 0143498b356fe8544a9bf6cbf9755073, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
